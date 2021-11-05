@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Math&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@800&display=swap');
+.control{
+    height: 200%;
+    width: 50%;
+    
+}
+p{
+    font-family: 'STIX Two Math', serif;
+}
+h1{
+    font-family: 'Catamaran', sans-serif;
+    
+}
+body{
+    background-color: crimson;
+}
+#submit{
+    border-radius: 5px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    border-color: black;
+}
